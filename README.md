@@ -14,3 +14,12 @@ The Continuous Integration and Continuous Delivery (CI/CD) engine is fully autom
 4. **Secure Registry Authentication:** The runner securely logs into Docker Hub using encrypted credentials configured inside **GitHub Secrets** (`DOCKER_USERNAME` and `DOCKER_PASSWORD`).
 5. **Container Compilation:** The engine compiles a fresh, production-ready container image using the repository's root `Dockerfile`.
 6. **Cloud Delivery:** The finalized image is automatically tagged and pushed to the public container registry (`muskan9208/healthcare-dashboard:latest`), ensuring the latest build is immediately ready for deployment.
+
+## 🏗️ Phase 2: Container Deployment & Kubernetes Orchestration
+
+The application architecture has been containerized and structured for cloud-native orchestration using the following design patterns:
+
+*   **Containerization Strategy:** The dashboard application is packaged into an isolated OCI-compliant runtime container layer using a highly optimized production `Dockerfile`.
+*   **Local Testing Environment:** `docker-compose` orchestrates the local stack container runtime networks, ensuring environment variables match production expectations before pushing code.
+*   **Cluster Orchestration (Kubernetes):** The `deployment.yaml` file maintains a declarative state for our application pods, ensuring automated self-healing and replication inside the cluster.
+*   **Traffic Routing:** The `service.yaml` handles internal and external networking, mapping a static public entry-point (via standard ingress/LoadBalancer) directly down to the targeted active application selectors.
