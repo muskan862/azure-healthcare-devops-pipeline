@@ -7,7 +7,7 @@ DASHBOARD_TEMPLATE = """
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Clinical EarlyWarning Dashboard</title>
+    <title>Clinical Early-Warning Dashboard</title>
     <style>
         body { font-family: Arial, sans-serif; margin: 40px; background-color: #f4f6f9; color: #333; }
         .container { max-width: 800px; margin: auto; background: white; padding: 30px; border-radius: 8px; box-shadow: 0 4px 15px rgba(0,0,0,0.1); }
