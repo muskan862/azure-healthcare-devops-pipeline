@@ -1,0 +1,11 @@
+git hub repo link: https://github.com/muskan862/azure-healthcare-devops-pipeline.git
+ci pipeline configuration file link:https://github.com/muskan862/azure-healthcare-devops-pipeline/tree/main/.github/workflows
+screenshot link :
+   "c:\Users\Lenovo\Desktop\Screenshot 2026-07-06 101018.png"
+   "C:\Users\Lenovo\Desktop\Screenshot 2026-07-06 101213.png"
+   "C:\Users\Lenovo\Desktop\Screenshot 2026-07-06 101248.png"
+   "C:\Users\Lenovo\Desktop\Screenshot 2026-07-06 101324.png"
+readme.md file link : https://github.com/muskan862/azure-healthcare-devops-pipeline/blob/main/README.md?plain=1
+demo link :https://1drv.ms/v/c/97b7a0675f2c85de/IQA7dtvyJTpFS6dkw50qHAcGAW-mqW7lieNOf3roq_sq_ww?e=QUjia1
+docker file link :https://github.com/muskan862/azure-healthcare-devops-pipeline/blob/main/Dockerfile
+screenshot file link :https://1drv.ms/w/c/97b7a0675f2c85de/IQCJBtL75USzTa_8pz3Qp_q0AQGeorbcTHMgUMDlJqLP3zY?e=5o2DRk
