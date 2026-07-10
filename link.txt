@@ -1,1 +1,7 @@
 readme file link (updated):https://github.com/muskan862/azure-healthcare-devops-pipeline/blob/main/README.md
+readme file link (updated):https://github.com/muskan862/azure-healthcare-devops-pipeline/blob/main/README.md
+service.yaml link:https://github.com/muskan862/azure-healthcare-devops-pipeline/blob/main/service.yaml
+deployment.yaml link:https://github.com/muskan862/azure-healthcare-devops-pipeline/blob/main/deployment.yaml
+docker compose link :https://github.com/muskan862/azure-healthcare-devops-pipeline/blob/main/docker-compose.yml
+video link of demo:https://1drv.ms/v/c/97b7a0675f2c85de/IQA9H39AYAy-TbeCcuEBVr7aAXtU18RQh8ahoN1bMJCaaEM?e=m8y4jc
+ci/cd pipeline script :https://github.com/muskan862/azure-healthcare-devops-pipeline/blob/main/.github/workflows/ci.yml
